@@ -1,4 +1,2 @@
-#!/bin/bash
-
 #Hello world en Bash
 echo Hello world
